@@ -1,0 +1,1 @@
+print("it is f2 file")
